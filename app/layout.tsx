@@ -3,7 +3,7 @@ import Navbar from './components/Navbar'
 import MyProfilePic from './components/MyProfilePic'
 
 export const metadata = {
-  title: "Oussamma&apos;s Blog",
+  title: "Oussama's Blog",
   description: 'Created by Oussama Ennachite',
 }
 
